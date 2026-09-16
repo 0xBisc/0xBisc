@@ -72,6 +72,7 @@
 ```bash
 ┌──(0xBisc㉿cyberspace)-[~]
 └─$ whoami
+0xBisc
 
 [+] Identity      : Bisc
 [+] Handle        : 0xBisc
