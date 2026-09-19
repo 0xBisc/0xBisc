@@ -218,6 +218,8 @@ Secure.
 
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Behind+every+firewall...+there's+always+a+vulnerability+waiting+for+you.;No+limits+to+reaching%E2%80%A6+when+you+have+the+right+key.;Where+their+safety+ends..+our+curiosity+begins.;Learn+the+rules..+then+break+them+professionally.;Master+the+basics...+to+make+the+impossible+happen+in+systems.;Knowledge+is+your+weapon...+and+code+is+your+gateway+to+control." />
+
 ---
 
 ## `// current_focus`
