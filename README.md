@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=%3E+Initializing+0xBisc...;%3E+Loading+security+modules...;%3E+Searching+for+vulnerabilities...;%3E+CTF+mode%3A+ACTIVE;%3E+Access+granted.+Welcome%2C+operator." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=650&prefix=%3E+&lines=Initializing+0xBisc...;Loading+security+modules...;Searching+for+vulnerabilities...;CTF+mode%3A+ACTIVE;Access+granted.+Welcome%2C+operator." />
 
 <br>
 
