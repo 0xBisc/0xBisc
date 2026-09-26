@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/🌐_LAB-0xBisc.github.io-0D121D?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=1F293D" />
 </a>
 <a href="https://tryhackme.com/p/Bisc">
-  <img src="https://img.shields.io/badge/⚡_TRYHACKME-0x7%20%7C%20ADEPT-0D121D?style=for-the-badge&logo=tryhackme&logoColor=00FF88&labelColor=1F293D" />
+  <img src="https://img.shields.io/badge/⚡_TRYHACKME-0x8%20%7C%20HACKER-0D121D?style=for-the-badge&logo=tryhackme&logoColor=00FF88&labelColor=1F293D" />
 </a>
 
 <br/>
@@ -176,7 +176,7 @@ Learn how to secure it.
 ╠══════════════════════════════════════╣
 ║                                      ║
 ║   USER       :: Bisc                 ║
-║   RANK       :: [0x7][ADEPT]         ║
+║   RANK       :: [0x8][HACKER]        ║
 ║   PLATFORM   :: TryHackMe            ║
 ║   STATUS     :: TRAINING             ║
 ║                                      ║
